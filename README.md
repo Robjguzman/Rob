@@ -35,12 +35,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertguzmanny&show_icons=true&theme=radical)
 
-<a href="https://github.com/robertguzmanny/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertguzmanny&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/robertguzmanny/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robertguzmanny&repo=convoychat" />
-</a>
+
 
 
 
