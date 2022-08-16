@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Flask and Django**
 
+- 👨🏽‍💻 I'm open to **collaborate and work on anything**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Robertguzmanny?tab=repositories](https://github.com/Robertguzmanny?tab=repositories)
 
 - 📫 How to reach me **robert.guzman3@lc.cuny.edu**
