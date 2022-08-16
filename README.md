@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert J. Guzman</h1>
-<h2 align="center">CS Student at Lehman College</h2>
+<h1 align="left">Hi 👋, I'm Robert J. Guzman</h1>
+<h2 align="left">CS Student at Lehman College</h2>
 
 - 🔭 I’m currently working on [Full stack guess game](https://github.com/Robertguzmanny/guess-game)
 
