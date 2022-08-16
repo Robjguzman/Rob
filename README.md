@@ -5,6 +5,8 @@
       am pursuing my degree in Computer Science and learning how to be a great
       developer.
     </p>
+    
+- 🌎 I'm based on **New York**
 
 - 🔭 I’m currently working on [Full stack guess game](https://github.com/Robertguzmanny/guess-game)
 
