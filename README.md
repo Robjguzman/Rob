@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋, I'm Robert J. Guzman</h1>
 <h2 align="left">CS Student at Lehman College</h2>
-<p align="left">Hello my name is Robert Guzman currently a CS student at
-Lehman College. I am pursuing my degree in Computer Science and learning
-how to be a great developer.
+    <p>
+      Hello my name is Robert Guzman currently a CS student at Lehman College. I
+      am pursuing my degree in Computer Science and learning how to be a great
+      developer.
+    </p>
 
 - 🔭 I’m currently working on [Full stack guess game](https://github.com/Robertguzmanny/guess-game)
 
