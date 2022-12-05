@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert J. Guzman</h1>
 <h3 align="center">Computer science student at Lehman College</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robertguzmanny" alt="robertguzmanny" /></a> </p>
+- 🔭 I’m currently working on **Android Mobile**
 
 - 🌱 I’m currently learning **Java in android studio**
 
