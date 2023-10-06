@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Robert.Guzman3@lc.cuny.edu**
 
-- 📄 Know about my experiences [https://lccuny-my.sharepoint.com/:w:/g/personal/robert_guzman3_lc_cuny_edu/EaZrHYfEDN1LlM9G8DaboiMBjd5Xk9ZOx8-P-2e9FrrJzw?e=g8hOXL](https://lccuny-my.sharepoint.com/:w:/g/personal/robert_guzman3_lc_cuny_edu/EaZrHYfEDN1LlM9G8DaboiMBjd5Xk9ZOx8-P-2e9FrrJzw?e=g8hOXL)
+- 📄 Know about my experiences [[https://lccuny-my.sharepoint.com/:w:/g/personal/robert_guzman3_lc_cuny_edu/EaZrHYfEDN1LlM9G8DaboiMBjd5Xk9ZOx8-P-2e9FrrJzw?e=g8hOXL](https://lccuny-my.sharepoint.com/:w:/g/personal/robert_guzman3_lc_cuny_edu/ERm30nDuT3ZGucAQPIhlJOwBgo3ljZps4bV5sqKWxMMHtw?e=dq1s7z)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
